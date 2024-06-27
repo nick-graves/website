@@ -9,39 +9,39 @@
     <lastBuildDate>Thu, 02 Jan 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/pleural-procedures/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Thoracentesis</title>
+      <link>http://localhost:1313/procedures/thoracentesis/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/procedures/thoracentesis/</guid>
+      <description>Removal of pleural fluid for diagnostic or therapeutic purposes.</description>
+    </item>
+    <item>
       <title>Indwelling Pleural Catheter (IPC) Placement</title>
       <link>http://localhost:1313/procedures/indwelling_pleural_catheter_placement/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/procedures/indwelling_pleural_catheter_placement/</guid>
       <description>Long-term catheter for drainage of pleural effusions.</description>
     </item>
     <item>
       <title>Medical Thoracoscopy/Pleuroscopy</title>
       <link>http://localhost:1313/procedures/medical_thoracoscopy_pleuroscopy/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/procedures/medical_thoracoscopy_pleuroscopy/</guid>
       <description>Minimally invasive examination and biopsy of the pleura.</description>
     </item>
     <item>
       <title>Pleural Biopsy</title>
       <link>http://localhost:1313/procedures/pleural_biopsy/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/procedures/pleural_biopsy/</guid>
       <description>Obtaining tissue samples from the pleura.</description>
     </item>
     <item>
       <title>Pleurodesis</title>
       <link>http://localhost:1313/procedures/pleurodesis/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/procedures/pleurodesis/</guid>
       <description>Fusion of the pleural layers to prevent recurrent pleural effusions.</description>
-    </item>
-    <item>
-      <title>Thoracentesis</title>
-      <link>http://localhost:1313/procedures/thoracentesis/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/procedures/thoracentesis/</guid>
-      <description>Removal of pleural fluid for diagnostic or therapeutic purposes.</description>
     </item>
   </channel>
 </rss>

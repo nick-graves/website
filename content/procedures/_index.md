@@ -3,5 +3,5 @@ title: "Procedures"
 menu:
   main:
     identifier: "procedures"
-    weight: 20
+    weight: 30
 ---

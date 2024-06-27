@@ -9,20 +9,6 @@
     <lastBuildDate>Thu, 02 Jan 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/diagnostic-procedures/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Endobronchial Ultrasound (EBUS)</title>
-      <link>http://localhost:1313/procedures/endobronchial_ultrasound/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/procedures/endobronchial_ultrasound/</guid>
-      <description>Use of ultrasound along with bronchoscopy to visualize structures in and around the airways.</description>
-    </item>
-    <item>
-      <title>Flexible Bronchoscopy</title>
-      <link>http://localhost:1313/procedures/flexible_bronchoscopy/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/procedures/flexible_bronchoscopy/</guid>
-      <description>Examination of the airways using a flexible bronchoscope.</description>
-    </item>
-    <item>
       <title>Radial EBUS</title>
       <link>http://localhost:1313/procedures/radial_ebus/</link>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
@@ -42,6 +28,20 @@
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/procedures/transbronchial_needle_aspiration/</guid>
       <description>Sampling of lymph nodes or masses adjacent to the airways.</description>
+    </item>
+    <item>
+      <title>Endobronchial Ultrasound (EBUS)</title>
+      <link>http://localhost:1313/procedures/endobronchial_ultrasound/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/procedures/endobronchial_ultrasound/</guid>
+      <description>Use of ultrasound along with bronchoscopy to visualize structures in and around the airways.</description>
+    </item>
+    <item>
+      <title>Flexible Bronchoscopy</title>
+      <link>http://localhost:1313/procedures/flexible_bronchoscopy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/procedures/flexible_bronchoscopy/</guid>
+      <description>Examination of the airways using a flexible bronchoscope.</description>
     </item>
   </channel>
 </rss>

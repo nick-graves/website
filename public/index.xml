@@ -16,125 +16,6 @@
       <description>Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus. Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat. Aliquam luctus et mattis lectus sit amet pulvinar. Nam turpis nisi consequat etiam lorem ipsum dolor sit amet nullam.&#xA;And Yet Another Subheading Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac quam risus, at tempus justo. Sed dictum rutrum massa eu volutpat. Quisque vitae hendrerit sem.</description>
     </item>
     <item>
-      <title>Airway Stenting</title>
-      <link>http://localhost:1313/procedures/airway_stenting/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/procedures/airway_stenting/</guid>
-      <description>Placement of stents to keep airways open.</description>
-    </item>
-    <item>
-      <title>Balloon Dilation</title>
-      <link>http://localhost:1313/procedures/balloon_dilation/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/procedures/balloon_dilation/</guid>
-      <description>Use of balloons to dilate narrowed airways.</description>
-    </item>
-    <item>
-      <title>Bronchial Thermoplasty</title>
-      <link>http://localhost:1313/procedures/bronchial_thermoplasty/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/procedures/bronchial_thermoplasty/</guid>
-      <description>Radiofrequency ablation of airway smooth muscle for severe asthma.</description>
-    </item>
-    <item>
-      <title>Bronchoscopic Lung Volume Reduction (BLVR)</title>
-      <link>http://localhost:1313/procedures/bronchoscopic_lung_volume_reduction/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/procedures/bronchoscopic_lung_volume_reduction/</guid>
-      <description>Procedures to reduce lung volume in patients with emphysema.</description>
-    </item>
-    <item>
-      <title>Cryotherapy</title>
-      <link>http://localhost:1313/procedures/cryotherapy/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/procedures/cryotherapy/</guid>
-      <description>Use of extreme cold to destroy abnormal tissues.</description>
-    </item>
-    <item>
-      <title>Electrocautery and Argon Plasma Coagulation (APC)</title>
-      <link>http://localhost:1313/procedures/electrocautery_and_argon_plasma_coagulation/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/procedures/electrocautery_and_argon_plasma_coagulation/</guid>
-      <description>Use of electric current and argon gas to remove or destroy tissue.</description>
-    </item>
-    <item>
-      <title>Endobronchial Ultrasound (EBUS)</title>
-      <link>http://localhost:1313/procedures/endobronchial_ultrasound/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/procedures/endobronchial_ultrasound/</guid>
-      <description>Use of ultrasound along with bronchoscopy to visualize structures in and around the airways.</description>
-    </item>
-    <item>
-      <title>Endoscopic Valve Placement</title>
-      <link>http://localhost:1313/procedures/endoscopic_valve_placement/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/procedures/endoscopic_valve_placement/</guid>
-      <description>Placement of one-way valves to treat emphysema or persistent air leaks.</description>
-    </item>
-    <item>
-      <title>Flexible Bronchoscopy</title>
-      <link>http://localhost:1313/procedures/flexible_bronchoscopy/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/procedures/flexible_bronchoscopy/</guid>
-      <description>Examination of the airways using a flexible bronchoscope.</description>
-    </item>
-    <item>
-      <title>Indwelling Pleural Catheter (IPC) Placement</title>
-      <link>http://localhost:1313/procedures/indwelling_pleural_catheter_placement/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/procedures/indwelling_pleural_catheter_placement/</guid>
-      <description>Long-term catheter for drainage of pleural effusions.</description>
-    </item>
-    <item>
-      <title>Medical Thoracoscopy/Pleuroscopy</title>
-      <link>http://localhost:1313/procedures/medical_thoracoscopy_pleuroscopy/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/procedures/medical_thoracoscopy_pleuroscopy/</guid>
-      <description>Minimally invasive examination and biopsy of the pleura.</description>
-    </item>
-    <item>
-      <title>Microdebrider Bronchoscopy</title>
-      <link>http://localhost:1313/procedures/microdebrider_bronchoscopy/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/procedures/microdebrider_bronchoscopy/</guid>
-      <description>Mechanical removal of obstructive airway lesions.</description>
-    </item>
-    <item>
-      <title>Percutaneous Tracheostomy</title>
-      <link>http://localhost:1313/procedures/percutaneous_tracheostomy/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/procedures/percutaneous_tracheostomy/</guid>
-      <description>Creation of an opening in the trachea through the neck to facilitate breathing.</description>
-    </item>
-    <item>
-      <title>Pleural Biopsy</title>
-      <link>http://localhost:1313/procedures/pleural_biopsy/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/procedures/pleural_biopsy/</guid>
-      <description>Obtaining tissue samples from the pleura.</description>
-    </item>
-    <item>
-      <title>Pleurodesis</title>
-      <link>http://localhost:1313/procedures/pleurodesis/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/procedures/pleurodesis/</guid>
-      <description>Fusion of the pleural layers to prevent recurrent pleural effusions.</description>
-    </item>
-    <item>
-      <title>Pulsed Electrical Field Therapy</title>
-      <link>http://localhost:1313/procedures/pulsed_electrical_field_therapy/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/procedures/pulsed_electrical_field_therapy/</guid>
-      <description>Use of electrical fields to ablate abnormal tissues.</description>
-    </item>
-    <item>
-      <title>Radial EBUS</title>
-      <link>http://localhost:1313/procedures/radial_ebus/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/procedures/radial_ebus/</guid>
-      <description>Use of radial probe ultrasound for peripheral lung lesions.</description>
-    </item>
-    <item>
       <title>Robotic-Assisted Bronchoscopy</title>
       <link>http://localhost:1313/procedures/robotic_assisted_bronchoscopy/</link>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
@@ -168,6 +49,125 @@
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/procedures/holder/first/</guid>
       <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.&#xA;Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
+    </item>
+    <item>
+      <title>Airway Stenting</title>
+      <link>http://localhost:1313/procedures/airway_stenting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/procedures/airway_stenting/</guid>
+      <description>Placement of stents to keep airways open.</description>
+    </item>
+    <item>
+      <title>Balloon Dilation</title>
+      <link>http://localhost:1313/procedures/balloon_dilation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/procedures/balloon_dilation/</guid>
+      <description>Use of balloons to dilate narrowed airways.</description>
+    </item>
+    <item>
+      <title>Bronchial Thermoplasty</title>
+      <link>http://localhost:1313/procedures/bronchial_thermoplasty/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/procedures/bronchial_thermoplasty/</guid>
+      <description>Radiofrequency ablation of airway smooth muscle for severe asthma.</description>
+    </item>
+    <item>
+      <title>Bronchoscopic Lung Volume Reduction (BLVR)</title>
+      <link>http://localhost:1313/procedures/bronchoscopic_lung_volume_reduction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/procedures/bronchoscopic_lung_volume_reduction/</guid>
+      <description>Procedures to reduce lung volume in patients with emphysema.</description>
+    </item>
+    <item>
+      <title>Cryotherapy</title>
+      <link>http://localhost:1313/procedures/cryotherapy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/procedures/cryotherapy/</guid>
+      <description>Use of extreme cold to destroy abnormal tissues.</description>
+    </item>
+    <item>
+      <title>Electrocautery and Argon Plasma Coagulation (APC)</title>
+      <link>http://localhost:1313/procedures/electrocautery_and_argon_plasma_coagulation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/procedures/electrocautery_and_argon_plasma_coagulation/</guid>
+      <description>Use of electric current and argon gas to remove or destroy tissue.</description>
+    </item>
+    <item>
+      <title>Endobronchial Ultrasound (EBUS)</title>
+      <link>http://localhost:1313/procedures/endobronchial_ultrasound/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/procedures/endobronchial_ultrasound/</guid>
+      <description>Use of ultrasound along with bronchoscopy to visualize structures in and around the airways.</description>
+    </item>
+    <item>
+      <title>Endoscopic Valve Placement</title>
+      <link>http://localhost:1313/procedures/endoscopic_valve_placement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/procedures/endoscopic_valve_placement/</guid>
+      <description>Placement of one-way valves to treat emphysema or persistent air leaks.</description>
+    </item>
+    <item>
+      <title>Flexible Bronchoscopy</title>
+      <link>http://localhost:1313/procedures/flexible_bronchoscopy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/procedures/flexible_bronchoscopy/</guid>
+      <description>Examination of the airways using a flexible bronchoscope.</description>
+    </item>
+    <item>
+      <title>Indwelling Pleural Catheter (IPC) Placement</title>
+      <link>http://localhost:1313/procedures/indwelling_pleural_catheter_placement/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/procedures/indwelling_pleural_catheter_placement/</guid>
+      <description>Long-term catheter for drainage of pleural effusions.</description>
+    </item>
+    <item>
+      <title>Medical Thoracoscopy/Pleuroscopy</title>
+      <link>http://localhost:1313/procedures/medical_thoracoscopy_pleuroscopy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/procedures/medical_thoracoscopy_pleuroscopy/</guid>
+      <description>Minimally invasive examination and biopsy of the pleura.</description>
+    </item>
+    <item>
+      <title>Microdebrider Bronchoscopy</title>
+      <link>http://localhost:1313/procedures/microdebrider_bronchoscopy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/procedures/microdebrider_bronchoscopy/</guid>
+      <description>Mechanical removal of obstructive airway lesions.</description>
+    </item>
+    <item>
+      <title>Percutaneous Tracheostomy</title>
+      <link>http://localhost:1313/procedures/percutaneous_tracheostomy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/procedures/percutaneous_tracheostomy/</guid>
+      <description>Creation of an opening in the trachea through the neck to facilitate breathing.</description>
+    </item>
+    <item>
+      <title>Pleural Biopsy</title>
+      <link>http://localhost:1313/procedures/pleural_biopsy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/procedures/pleural_biopsy/</guid>
+      <description>Obtaining tissue samples from the pleura.</description>
+    </item>
+    <item>
+      <title>Pleurodesis</title>
+      <link>http://localhost:1313/procedures/pleurodesis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/procedures/pleurodesis/</guid>
+      <description>Fusion of the pleural layers to prevent recurrent pleural effusions.</description>
+    </item>
+    <item>
+      <title>Pulsed Electrical Field Therapy</title>
+      <link>http://localhost:1313/procedures/pulsed_electrical_field_therapy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/procedures/pulsed_electrical_field_therapy/</guid>
+      <description>Use of electrical fields to ablate abnormal tissues.</description>
+    </item>
+    <item>
+      <title>Radial EBUS</title>
+      <link>http://localhost:1313/procedures/radial_ebus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/procedures/radial_ebus/</guid>
+      <description>Use of radial probe ultrasound for peripheral lung lesions.</description>
     </item>
   </channel>
 </rss>

@@ -9,53 +9,53 @@
     <lastBuildDate>Thu, 02 Jan 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/therapeutic-procedures/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Pulsed Electrical Field Therapy</title>
+      <link>http://localhost:1313/procedures/pulsed_electrical_field_therapy/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/procedures/pulsed_electrical_field_therapy/</guid>
+      <description>Use of electrical fields to ablate abnormal tissues.</description>
+    </item>
+    <item>
       <title>Airway Stenting</title>
       <link>http://localhost:1313/procedures/airway_stenting/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/procedures/airway_stenting/</guid>
       <description>Placement of stents to keep airways open.</description>
     </item>
     <item>
       <title>Balloon Dilation</title>
       <link>http://localhost:1313/procedures/balloon_dilation/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/procedures/balloon_dilation/</guid>
       <description>Use of balloons to dilate narrowed airways.</description>
     </item>
     <item>
       <title>Bronchial Thermoplasty</title>
       <link>http://localhost:1313/procedures/bronchial_thermoplasty/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/procedures/bronchial_thermoplasty/</guid>
       <description>Radiofrequency ablation of airway smooth muscle for severe asthma.</description>
     </item>
     <item>
       <title>Cryotherapy</title>
       <link>http://localhost:1313/procedures/cryotherapy/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/procedures/cryotherapy/</guid>
       <description>Use of extreme cold to destroy abnormal tissues.</description>
     </item>
     <item>
       <title>Electrocautery and Argon Plasma Coagulation (APC)</title>
       <link>http://localhost:1313/procedures/electrocautery_and_argon_plasma_coagulation/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/procedures/electrocautery_and_argon_plasma_coagulation/</guid>
       <description>Use of electric current and argon gas to remove or destroy tissue.</description>
     </item>
     <item>
       <title>Microdebrider Bronchoscopy</title>
       <link>http://localhost:1313/procedures/microdebrider_bronchoscopy/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/procedures/microdebrider_bronchoscopy/</guid>
       <description>Mechanical removal of obstructive airway lesions.</description>
-    </item>
-    <item>
-      <title>Pulsed Electrical Field Therapy</title>
-      <link>http://localhost:1313/procedures/pulsed_electrical_field_therapy/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/procedures/pulsed_electrical_field_therapy/</guid>
-      <description>Use of electrical fields to ablate abnormal tissues.</description>
     </item>
   </channel>
 </rss>
