@@ -82,7 +82,7 @@
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2020-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/procedures/second/</loc>
+    <loc>http://localhost:1313/procedures/holder/second/</loc>
     <lastmod>2020-01-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/therapeutic-procedures/</loc>
@@ -97,7 +97,7 @@
     <loc>http://localhost:1313/tags/lorem-ipsum/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/procedures/first/</loc>
+    <loc>http://localhost:1313/procedures/holder/first/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>

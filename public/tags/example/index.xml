@@ -10,16 +10,16 @@
     <atom:link href="http://localhost:1313/tags/example/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Second Thing</title>
-      <link>http://localhost:1313/procedures/second/</link>
+      <link>http://localhost:1313/procedures/holder/second/</link>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/procedures/second/</guid>
+      <guid>http://localhost:1313/procedures/holder/second/</guid>
       <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.&#xA;Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
     </item>
     <item>
       <title>The First Thing</title>
-      <link>http://localhost:1313/procedures/first/</link>
+      <link>http://localhost:1313/procedures/holder/first/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/procedures/first/</guid>
+      <guid>http://localhost:1313/procedures/holder/first/</guid>
       <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.&#xA;Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
     </item>
   </channel>
