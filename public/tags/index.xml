@@ -6,13 +6,48 @@
     <description>Recent content in Tags on Test Site Header</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2020 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Diagnostic Procedures</title>
+      <link>http://localhost:1313/tags/diagnostic-procedures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/diagnostic-procedures/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Duis Neque</title>
+      <link>http://localhost:1313/tags/duis-neque/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/duis-neque/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Example</title>
       <link>http://localhost:1313/tags/example/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/example/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Miscellaneous Procedures</title>
+      <link>http://localhost:1313/tags/miscellaneous-procedures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/miscellaneous-procedures/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pleural Procedures</title>
+      <link>http://localhost:1313/tags/pleural-procedures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/pleural-procedures/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Therapeutic Procedures</title>
+      <link>http://localhost:1313/tags/therapeutic-procedures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/therapeutic-procedures/</guid>
       <description></description>
     </item>
     <item>

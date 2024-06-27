@@ -3,20 +3,98 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/procedures/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/procedures/airway_stenting/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/procedures/balloon_dilation/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/procedures/bronchial_thermoplasty/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/procedures/bronchoscopic_lung_volume_reduction/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/procedures/cryotherapy/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/diagnostic-procedures/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/duis-neque/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/procedures/electrocautery_and_argon_plasma_coagulation/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/procedures/endobronchial_ultrasound/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/procedures/endoscopic_valve_placement/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/example/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/lorem-ipsum/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/procedures/flexible_bronchoscopy/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/procedures/indwelling_pleural_catheter_placement/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/procedures/medical_thoracoscopy_pleuroscopy/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/procedures/microdebrider_bronchoscopy/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/miscellaneous-procedures/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/procedures/percutaneous_tracheostomy/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/procedures/pleural_biopsy/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/pleural-procedures/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/procedures/pleurodesis/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/procedures/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/procedures/pulsed_electrical_field_therapy/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/procedures/radial_ebus/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/procedures/robotic_assisted_bronchoscopy/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/procedures/second/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/therapeutic-procedures/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/procedures/thoracentesis/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/procedures/transbronchial_needle_aspiration/</loc>
+    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/lorem-ipsum/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/procedures/first/</loc>

@@ -1,5 +1,7 @@
 ---
-title: Procedures
-menu: main
-weight: 30
+title: "Procedures"
+menu:
+  main:
+    identifier: "procedures"
+    weight: 20
 ---

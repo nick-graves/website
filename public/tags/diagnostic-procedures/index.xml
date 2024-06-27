@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diagnostic Procedures on Test Site Header</title>
+    <link>http://localhost:1313/tags/diagnostic-procedures/</link>
+    <description>Recent content in Diagnostic Procedures on Test Site Header</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/diagnostic-procedures/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Endobronchial Ultrasound (EBUS)</title>
+      <link>http://localhost:1313/procedures/endobronchial_ultrasound/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/procedures/endobronchial_ultrasound/</guid>
+      <description>Use of ultrasound along with bronchoscopy to visualize structures in and around the airways.</description>
+    </item>
+    <item>
+      <title>Flexible Bronchoscopy</title>
+      <link>http://localhost:1313/procedures/flexible_bronchoscopy/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/procedures/flexible_bronchoscopy/</guid>
+      <description>Examination of the airways using a flexible bronchoscope.</description>
+    </item>
+    <item>
+      <title>Radial EBUS</title>
+      <link>http://localhost:1313/procedures/radial_ebus/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/procedures/radial_ebus/</guid>
+      <description>Use of radial probe ultrasound for peripheral lung lesions.</description>
+    </item>
+    <item>
+      <title>Robotic-Assisted Bronchoscopy</title>
+      <link>http://localhost:1313/procedures/robotic_assisted_bronchoscopy/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/procedures/robotic_assisted_bronchoscopy/</guid>
+      <description>Use of robotic technology to enhance the precision and reach of bronchoscopic procedures.</description>
+    </item>
+    <item>
+      <title>Transbronchial Needle Aspiration (TBNA)</title>
+      <link>http://localhost:1313/procedures/transbronchial_needle_aspiration/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/procedures/transbronchial_needle_aspiration/</guid>
+      <description>Sampling of lymph nodes or masses adjacent to the airways.</description>
+    </item>
+  </channel>
+</rss>

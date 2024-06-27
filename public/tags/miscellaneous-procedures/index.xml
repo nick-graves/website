@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Miscellaneous Procedures on Test Site Header</title>
+    <link>http://localhost:1313/tags/miscellaneous-procedures/</link>
+    <description>Recent content in Miscellaneous Procedures on Test Site Header</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/miscellaneous-procedures/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bronchoscopic Lung Volume Reduction (BLVR)</title>
+      <link>http://localhost:1313/procedures/bronchoscopic_lung_volume_reduction/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/procedures/bronchoscopic_lung_volume_reduction/</guid>
+      <description>Procedures to reduce lung volume in patients with emphysema.</description>
+    </item>
+    <item>
+      <title>Endoscopic Valve Placement</title>
+      <link>http://localhost:1313/procedures/endoscopic_valve_placement/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/procedures/endoscopic_valve_placement/</guid>
+      <description>Placement of one-way valves to treat emphysema or persistent air leaks.</description>
+    </item>
+    <item>
+      <title>Percutaneous Tracheostomy</title>
+      <link>http://localhost:1313/procedures/percutaneous_tracheostomy/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/procedures/percutaneous_tracheostomy/</guid>
+      <description>Creation of an opening in the trachea through the neck to facilitate breathing.</description>
+    </item>
+  </channel>
+</rss>
