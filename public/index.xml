@@ -16,32 +16,11 @@
       <description>Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus. Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat. Aliquam luctus et mattis lectus sit amet pulvinar. Nam turpis nisi consequat etiam lorem ipsum dolor sit amet nullam.&#xA;And Yet Another Subheading Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac quam risus, at tempus justo. Sed dictum rutrum massa eu volutpat. Quisque vitae hendrerit sem.</description>
     </item>
     <item>
-      <title>Robotic-Assisted Bronchoscopy</title>
-      <link>http://localhost:1313/procedures/robotic_assisted_bronchoscopy/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/procedures/robotic_assisted_bronchoscopy/</guid>
-      <description>Use of robotic technology to enhance the precision and reach of bronchoscopic procedures.</description>
-    </item>
-    <item>
       <title>The Second Thing</title>
       <link>http://localhost:1313/procedures/holder/second/</link>
       <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/procedures/holder/second/</guid>
       <description>Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl amet mattis, sed a rutrum accumsan sed. Suspendisse eu.&#xA;Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt.</description>
-    </item>
-    <item>
-      <title>Thoracentesis</title>
-      <link>http://localhost:1313/procedures/thoracentesis/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/procedures/thoracentesis/</guid>
-      <description>Removal of pleural fluid for diagnostic or therapeutic purposes.</description>
-    </item>
-    <item>
-      <title>Transbronchial Needle Aspiration (TBNA)</title>
-      <link>http://localhost:1313/procedures/transbronchial_needle_aspiration/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/procedures/transbronchial_needle_aspiration/</guid>
-      <description>Sampling of lymph nodes or masses adjacent to the airways.</description>
     </item>
     <item>
       <title>The First Thing</title>
@@ -168,6 +147,27 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/procedures/radial_ebus/</guid>
       <description>Use of radial probe ultrasound for peripheral lung lesions.</description>
+    </item>
+    <item>
+      <title>Robotic-Assisted Bronchoscopy</title>
+      <link>http://localhost:1313/procedures/robotic_assisted_bronchoscopy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/procedures/robotic_assisted_bronchoscopy/</guid>
+      <description>Use of robotic technology to enhance the precision and reach of bronchoscopic procedures.</description>
+    </item>
+    <item>
+      <title>Thoracentesis</title>
+      <link>http://localhost:1313/procedures/thoracentesis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/procedures/thoracentesis/</guid>
+      <description>Removal of pleural fluid for diagnostic or therapeutic purposes.</description>
+    </item>
+    <item>
+      <title>Transbronchial Needle Aspiration (TBNA)</title>
+      <link>http://localhost:1313/procedures/transbronchial_needle_aspiration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/procedures/transbronchial_needle_aspiration/</guid>
+      <description>Sampling of lymph nodes or masses adjacent to the airways.</description>
     </item>
   </channel>
 </rss>

@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.css",
-	"sourceRoot": "C:/Users/nicho/onedrive/desktop/arcania",
+	"sourceRoot": "E:/GitHub/DakotaPulm",
 	"sources": [
 		"themes/arcana/assets/sass/main.scss",
 		"themes/arcana/assets/sass/libs/_vars.scss",
