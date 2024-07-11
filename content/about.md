@@ -1,30 +1,28 @@
 ---
 title: "About Us"
-description: "All content, all the time."
+description: "A New Era in Lung Cancer Detection and Treatment"
 menu: main
 weight: 20
-image: images/banner.jpg
+image: images/about.jpg
 image_alt: "Hello!"
-tags: ["examples", "content"]
+
 ---
-Phasellus quam turpis, feugiat sit amet ornare in, hendrerit in lectus.
-Praesent semper mod quis eget mi. Etiam eu ante risus. Aliquam erat volutpat.
-Aliquam luctus et mattis lectus sit amet pulvinar. Nam turpis nisi
-consequat etiam lorem ipsum dolor sit amet nullam.
+Avera St. Luke’s Hospital, in collaboration with Dakota Pulmonary, is at the forefront of lung cancer care with our new robotic bronchoscopy program. This innovative program allows for minimally invasive, robotic-assisted procedures that significantly improve early detection and treatment of lung cancer.
 
-### And Yet Another Subheading
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac quam risus, at tempus
-justo. Sed dictum rutrum massa eu volutpat. Quisque vitae hendrerit sem. Pellentesque lorem felis,
-ultricies a bibendum id, bibendum sit amet nisl. Mauris et lorem quam. Maecenas rutrum imperdiet
-vulputate. Nulla quis nibh ipsum, sed egestas justo. Morbi ut ante mattis orci convallis tempor.
-Etiam a lacus a lacus pharetra porttitor quis accumsan odio. Sed vel euismod nisi. Etiam convallis
-rhoncus dui quis euismod. Maecenas lorem tellus, congue et condimentum ac, ullamcorper non sapien.
-Donec sagittis massa et leo semper a scelerisque metus faucibus. Morbi congue mattis mi.
-Phasellus sed nisl vitae risus tristique volutpat. Cras rutrum commodo luctus.
+### Meet Our Leader
+Dr. Deptmer Ashley, MD, leads our program. With training from The University of Texas and experience at MD Anderson Cancer Center, Dr. Ashley brings expertise in robotic-assisted bronchoscopy to Avera St. Luke’s. His work has already led to the early detection of stage one lung cancers, providing patients with a 90% five-year survivability rate.
 
-Phasellus odio risus, faucibus et viverra vitae, eleifend ac purus. Praesent mattis, enim
-quis hendrerit porttitor, sapien tortor viverra magna, sit amet rhoncus nisl lacus nec arcu.
-Suspendisse laoreet metus ut metus imperdiet interdum aliquam justo tincidunt. Mauris dolor urna,
-fringilla vel malesuada ac, dignissim eu mi. Praesent mollis massa ac nulla pretium pretium.
-Maecenas tortor mauris, consectetur pellentesque dapibus eget, tincidunt vitae arcu.
-Vestibulum purus augue, tincidunt sit amet iaculis id, porta eu purus.
+### Our Technology
+We use the Ion system developed by Intuitive, pioneers in robotic-assisted surgery. This technology allows us to access remote lung tissue that conventional bronchoscopy cannot reach, ensuring accurate and early diagnosis.
+
+### Our Mission
+Lung cancer remains a significant public health concern, with a new diagnosis every 2.5 minutes in the United States. Nearly half of these cases are diagnosed at an advanced stage. At Avera St. Luke’s, our mission is to change this statistic through:
+
+- **Early Detection:** Encouraging low-dose CT lung cancer screenings for individuals aged 50-77 with a history of smoking.
+- **Prompt Treatment:** Reducing the average detection-to-treatment timeframe from seven months to seven days.
+
+### Our Impact
+With our program, patients experience a swift transition from detection to diagnosis to treatment, often within a week. This rapid turnaround time significantly impacts patient outcomes and peace of mind.
+
+### Join Us in the Fight Against Lung Cancer
+For more information on our lung cancer screenings and treatment options, visit [Avera.org](https://www.avera.org/). At Avera St. Luke’s, we are committed to providing the best care possible right here in our community.

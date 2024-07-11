@@ -1,0 +1,60 @@
+<div class="procedure-box" id="{{ .Get "id" }}" onclick="toggleContent(this)">
+    <strong>
+        <span class="arrow">&#9654;</span> <!-- Right-pointing arrow -->
+        {{ .Get "title" }}
+    </strong>
+    <div class="procedure-content">
+        <ul>
+            <li>{{ .Inner }}</li>
+        </ul>
+    </div>
+</div>
+
+<style>
+    .procedure-box {
+        background-color: #ADD8E6; /* Light blue color */
+        border-radius: 15px; /* Curved edges */
+        padding: 15px;
+        margin-bottom: 20px;
+        cursor: pointer;
+    }
+    .procedure-box strong {
+        display: flex;
+        align-items: center;
+    }
+    .procedure-box .arrow {
+        margin-right: 10px;
+        transition: transform 0.3s ease;
+    }
+    .procedure-content {
+        display: none;
+        margin-top: 10px;
+        padding-left: 30px;
+    }
+    .procedure-box.active .procedure-content {
+        display: block;
+    }
+    .procedure-box.active .arrow {
+        transform: rotate(90deg); /* Rotate the arrow */
+    }
+</style>
+
+<script>
+    function toggleContent(element) {
+        element.classList.toggle('active');
+    }
+
+    function openProcedureFromHash() {
+        const fragmentId = window.location.hash.substring(1);
+        if (fragmentId) {
+            const targetBox = document.getElementById(fragmentId);
+            if (targetBox) {
+                targetBox.classList.add('active'); // Open the procedure box
+            }
+        }
+    }
+
+    document.addEventListener('DOMContentLoaded', openProcedureFromHash);
+    window.addEventListener('hashchange', openProcedureFromHash);
+
+</script>

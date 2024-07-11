@@ -1,0 +1,14 @@
+#header{
+    padding-top: 0px;
+}
+
+
+#logo-wrapper {
+    background-image: url('/images/background2.jpg'); /* image path */
+    background-size: cover; /* Cover ensures the background image fills the entire header */
+    background-position: center; /* Center the background image */
+    height: 200px; /* Adjust height as needed */
+    text-align: center; /* Optional: Center align text */
+    color: #424242; /* Optional: Text color */
+    padding: 75px; /* Optional: Padding around content */
+}

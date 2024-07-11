@@ -1,0 +1,11 @@
+{{ $src := .Get "src" }}
+{{ $alt := .Get "alt" }}
+{{ $text := .Get "text" }}
+{{ $style := .Get "style" }}
+
+<div class="text-over-image-container" style="{{ $style }}">
+    <img src="{{ $src }}" alt="{{ $alt }}" class="text-over-image">
+    <div class="text-over-image-text">
+        {{ $text }}
+    </div>
+</div>

@@ -1,121 +1,121 @@
 
 [[main]]
-    parent = "procedures"
+    parent = "Procedures"
     name = "Diagnostic Procedures"
-    url = "/tags/diagnostic-procedures"
+    url = "/procedures/#diagnostic-procedures"
     weight = 11
 [[main]]
     parent = "Diagnostic Procedures"
     name = "Flexible Bronchoscopy"
-    url = "/procedures/flexible_bronchoscopy"
+    url = "/procedures/#flexible-bronchoscopy"
     weight = 12
 [[main]]
     parent = "Diagnostic Procedures"
     name = "Endobronchial Ultrasound (EBUS)"
-    url = "/procedures/endobronchial_ultrasound"
+    url = "/procedures/#endobronchial-ultrasound"
     weight = 13
 [[main]]
     parent = "Diagnostic Procedures"
     name = "Radial EBUS"
-    url = "/procedures/radial_ebus"
+    url = "/procedures/#radial-ebus"
     weight = 14
 [[main]]
     parent = "Diagnostic Procedures"
     name = "Transbronchial Needle Aspiration (TBNA)"
-    url = "/procedures/transbronchial_needle_aspiration"
+    url = "/procedures/#transbronchial-needle-aspiration"
     weight = 15
 [[main]]
     parent = "Diagnostic Procedures"
     name = "Robotic-Assisted Bronchoscopy"
-    url = "/procedures/robotic_assisted_bronchoscopy"
+    url = "/procedures/#robotic-assisted-bronchoscopy"
     weight = 16
 [[main]]
-    parent = "procedures"
+    parent = "Procedures"
     name = "Therapeutic Procedures"
-    url = "/tags/therapeutic-procedures"
+    url = "/procedures/#therapeutic-procedures"
     weight = 20
 [[main]]
     parent = "Therapeutic Procedures"
     name = "Bronchial Thermoplasty"
-    url = "/procedures/bronchial_thermoplasty"
+    url = "/procedures/#bronchial-thermoplasty"
     weight = 21
 [[main]]
     parent = "Therapeutic Procedures"
     name = "Airway Stenting"
-    url = "/procedures/airway_stenting"
+    url = "/procedures/#airway-stenting"
     weight = 22
 [[main]]
     parent = "Therapeutic Procedures"
     name = "Balloon Dilation"
-    url = "/procedures/balloon_dilation"
+    url = "/procedures/#balloon-dilation"
     weight = 23
 [[main]]
     parent = "Therapeutic Procedures"
     name = "Cryotherapy"
-    url = "/procedures/cryotherapy"
+    url = "/procedures/#cryotherapy"
     weight = 24
 [[main]]
     parent = "Therapeutic Procedures"
     name = "Electrocautery and Argon Plasma Coagulation (APC)"
-    url = "/procedures/electrocautery_and_argon_plasma_coagulation"
+    url = "/procedures/#electrocautery-and-argon-plasma-coagulation"
     weight = 25
 [[main]]
     parent = "Therapeutic Procedures"
     name = "Microdebrider Bronchoscopy"
-    url = "/procedures/microdebrider_bronchoscopy"
+    url = "/procedures/#microdebrider-bronchoscopy"
     weight = 26
 [[main]]
     parent = "Therapeutic Procedures"
     name = "Pulsed Electrical Field Therapy"
-    url = "/procedures/pulsed_electrical_field_therapy"
+    url = "/procedures/#pulsed-electrical-field-therapy"
     weight = 27
 [[main]]
-    parent = "procedures"
+    parent = "Procedures"
     name = "Pleural Procedures"
-    url = "/tags/pleural-procedures"
+    url = "/procedures/#pleural-procedures"
     weight = 30
 [[main]]
     parent = "Pleural Procedures"
     name = "Thoracentesis"
-    url = "/procedures/thoracentesis"
+    url = "/procedures/#thoracentesis"
     weight = 31
 [[main]]
     parent = "Pleural Procedures"
     name = "Pleurodesis"
-    url = "/procedures/pleurodesis"
+    url = "/procedures/#pleurodesis"
     weight = 32
 [[main]]
     parent = "Pleural Procedures"
     name = "Indwelling Pleural Catheter (IPC) Placement"
-    url = "/procedures/indwelling_pleural_catheter_placement"
+    url = "/procedures/#indwelling-pleural-catheter-placement"
     weight = 33
 [[main]]
     parent = "Pleural Procedures"
     name = "Medical Thoracoscopy/Pleuroscopy"
-    url = "/procedures/medical_thoracoscopy_pleuroscopy"
+    url = "/procedures/#medical-thoracoscopy-pleuroscopy"
     weight = 34
 [[main]]
     parent = "Pleural Procedures"
     name = "Pleural Biopsy"
-    url = "/procedures/pleural_biopsy"
+    url = "/procedures/#pleural-biopsy"
     weight = 35
 [[main]]
-    parent = "procedures"
+    parent = "Procedures"
     name = "Miscellaneous Procedures"
-    url = "/tags/miscellaneous-procedures"
+    url = "/procedures/#miscellaneous-procedures"
     weight = 40
 [[main]]
     parent = "Miscellaneous Procedures"
     name = "Bronchoscopic Lung Volume Reduction (BLVR)"
-    url = "/procedures/bronchoscopic_lung_volume_reduction"
+    url = "/procedures/#bronchoscopic-lung-volume-reduction"
     weight = 41
 [[main]]
     parent = "Miscellaneous Procedures"
     name = "Endoscopic Valve Placement"
-    url = "/procedures/endoscopic_valve_placement"
+    url = "/procedures/#endoscopic-valve-placement"
     weight = 42
 [[main]]
     parent = "Miscellaneous Procedures"
     name = "Percutaneous Tracheostomy"
-    url = "/procedures/percutaneous_tracheostomy"
+    url = "/procedures/#percutaneous-tracheostomy"
     weight = 43

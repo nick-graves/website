@@ -3,83 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/duis-neque/</loc>
-    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/example/</loc>
-    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/procedures/</loc>
-    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/procedures/holder/second/</loc>
-    <lastmod>2020-01-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/lorem-ipsum/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/procedures/holder/first/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/procedures/airway_stenting/</loc>
-  </url><url>
-    <loc>http://localhost:1313/procedures/balloon_dilation/</loc>
-  </url><url>
-    <loc>http://localhost:1313/procedures/bronchial_thermoplasty/</loc>
-  </url><url>
-    <loc>http://localhost:1313/procedures/bronchoscopic_lung_volume_reduction/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/content/</loc>
-  </url><url>
-    <loc>http://localhost:1313/procedures/cryotherapy/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/diagnostic-procedures/</loc>
-  </url><url>
-    <loc>http://localhost:1313/procedures/electrocautery_and_argon_plasma_coagulation/</loc>
-  </url><url>
-    <loc>http://localhost:1313/procedures/endobronchial_ultrasound/</loc>
-  </url><url>
-    <loc>http://localhost:1313/procedures/endoscopic_valve_placement/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/examples/</loc>
-  </url><url>
-    <loc>http://localhost:1313/procedures/flexible_bronchoscopy/</loc>
-  </url><url>
-    <loc>http://localhost:1313/procedures/indwelling_pleural_catheter_placement/</loc>
-  </url><url>
-    <loc>http://localhost:1313/procedures/medical_thoracoscopy_pleuroscopy/</loc>
-  </url><url>
-    <loc>http://localhost:1313/procedures/microdebrider_bronchoscopy/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/miscellaneous-procedures/</loc>
-  </url><url>
-    <loc>http://localhost:1313/procedures/percutaneous_tracheostomy/</loc>
-  </url><url>
-    <loc>http://localhost:1313/procedures/pleural_biopsy/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/pleural-procedures/</loc>
-  </url><url>
-    <loc>http://localhost:1313/procedures/pleurodesis/</loc>
-  </url><url>
-    <loc>http://localhost:1313/procedures/pulsed_electrical_field_therapy/</loc>
-  </url><url>
-    <loc>http://localhost:1313/procedures/radial_ebus/</loc>
-  </url><url>
-    <loc>http://localhost:1313/procedures/robotic_assisted_bronchoscopy/</loc>
-  </url><url>
-    <loc>http://localhost:1313/tags/therapeutic-procedures/</loc>
-  </url><url>
-    <loc>http://localhost:1313/procedures/thoracentesis/</loc>
-  </url><url>
-    <loc>http://localhost:1313/procedures/transbronchial_needle_aspiration/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>

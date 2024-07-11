@@ -1,38 +1,54 @@
 banner:
   enable: true
-  image: "images/banner.jpg"
-  contents: "**Arcana:** _A responsive site template freebie by [HTML5 UP](https://html5up.net/)_"
+  image: "images/background4.jpg"
+  contents: "**Avera St. Luke’s Hospital:** _Robotic Bronchoscopy Program for Early Lung Cancer Detection and Treatment_"
   button:
     contents: "Learn More"
-    url: "#"
+    url: "about"
+
 items:
+  - type: heading
+    heading: Welcome to Avera St. Luke’s Hospital Robotic Bronchoscopy Program
+    contents: Early Lung Cancer Detection and Treatment with Minimally Invasive Robotic-Assisted Procedures
+
   - type: highlights
     items_per_row: 3
     items:
-    - title: This Is Important
-      icon: fa-paper-plane
+    - title: Leader in the Field
+      icon: fa-user-md
       content: >
-        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
-        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
-    - title: Also Important
-      icon: fa-pencil-alt
+        Led by Dr. Deptmer Ashley, MD, a pulmonologist trained at The University of Texas with extensive experience from MD Anderson Cancer Center.
+    - title: Early Detection
+      icon: fa-stethoscope
       content: >
-        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
-        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
-    - title: Probably Important
-      icon: fa-wrench
+        Our technology has already identified stage one lung cancers, giving patients a 90% five-year survivability.
+    - title: Rapid Treatment
+      icon: fa-clock
       content: >
-        Duis neque nisi, dapibus sed mattis et quis, nibh. Sed et dapibus nisl
-        amet mattis, sed a rutrum accumsan sed. Suspendisse eu.
+        From detection to diagnosis to treatment in as little as 18 hours.
+
   - type: heading
-    heading: A gigantic heading you can use for whatever
-    contents: With a much smaller subtitle hanging out just below it
-  - type: posts
-    #heading: Recent Posts
-    content_type: posts
-    max: 4
+    heading: Why Choose Us?
+    contents: "Leaders in robotic bronchoscopy, offering advanced technology for superior lung cancer care."
+
+  - type: highlights
+    items_per_row: 2
+    items:
+    - title: Cutting-Edge Technology
+      icon: fa-microscope
+      content: >
+        Using the Ion system by Intuitive, we reach remote lung tissue inaccessible with conventional methods.
+    - title: Improved Outcomes
+      icon: fa-heart
+      content: >
+        Early diagnostic confirmation and treatment translate to better outcomes and survival rates.
+
+  - type: heading
+    heading: Get Screened Today
+    contents: Lung cancer has a doubling time of 90 days. Early detection and rapid treatment are crucial. Visit us for low-dose CT lung cancer screening, especially if you are aged 50-77 with a history of smoking.
+
   - type: cta
-    contents: Are you ready to continue your quest?
+    contents: Explore our treatment options and how we can help you. Visit [Avera.org](https://avera.org) for more information.
     button:
-      contents: Insert Coin
-      url: "#"
+      contents: Learn More
+      url: "https://avera.org"
