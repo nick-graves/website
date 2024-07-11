@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Dakota Pulmonary</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:1313/website/</link>
     <description>Recent content in Home on Dakota Pulmonary</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Untitled. All rights reserved</copyright>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Us</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://localhost:1313/website/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://localhost:1313/website/about/</guid>
       <description>Avera St. Luke’s Hospital, in collaboration with Dakota Pulmonary, is at the forefront of lung cancer care with our new robotic bronchoscopy program. This innovative program allows for minimally invasive, robotic-assisted procedures that significantly improve early detection and treatment of lung cancer.&#xA;Meet Our Leader Dr. Deptmer Ashley, MD, leads our program. With training from The University of Texas and experience at MD Anderson Cancer Center, Dr. Ashley brings expertise in robotic-assisted bronchoscopy to Avera St.</description>
     </item>
     <item>
       <title>Procedures</title>
-      <link>http://localhost:1313/procedures/</link>
+      <link>http://localhost:1313/website/procedures/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/procedures/</guid>
+      <guid>http://localhost:1313/website/procedures/</guid>
       <description>Diagnostic Procedures &amp;#9654; Flexible Bronchoscopy&#xD;Examination of the airways using a flexible bronchoscope.&#xD;&amp;#9654; Endobronchial Ultrasound (EBUS)&#xD;Use of ultrasound along with bronchoscopy to visualize structures in and around the airways.&#xD;&amp;#9654; Radial EBUS&#xD;Use of radial probe ultrasound for peripheral lung lesions.&#xD;&amp;#9654; Transbronchial Needle Aspiration (TBNA)&#xD;Sampling of lymph nodes or masses adjacent to the airways.&#xD;&amp;#9654; Robotic-Assisted Bronchoscopy&#xD;Use of robotic technology to enhance the precision and reach of bronchoscopic procedures.</description>
     </item>
   </channel>
