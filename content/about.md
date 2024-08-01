@@ -1,13 +1,13 @@
 ---
 title: "About Us"
-description: "A New Era in Lung Cancer Detection and Treatment"
+description: "A New Era in Lung Treatment"
 menu: main
 weight: 20
 image: images/about.jpg
 image_alt: "Hello!"
 
 ---
-Dakota Pulmonary, in collaboration with Avera St. Luke’s Hospital, is at the forefront of lung cancer care with our new robotic bronchoscopy program. This innovative program allows for minimally invasive, robotic-assisted procedures that significantly improve early detection and treatment of lung cancer.
+Dakota Pulmonary, in collaboration with Avera St. Luke’s Hospital, is at the forefront of lung care with our new robotic bronchoscopy program. This innovative program allows for minimally invasive, robotic-assisted procedures that significantly improve early detection and treatment of lung conditions.
 
 ### Our Background
 Deptmer Ashley, MD, founder of the program has trained at The University of Texas with experience at MD Anderson Cancer Center. Dr. Ashley brings his mastery in interventional pulmonology to Dakota Pulmonary where his work has already led to the early detection of stage one lung cancers, providing patients with a 90% five-year survivability rate. Dr. Ashley is also very capable of diagnosing and treating other major lung conditions such as emphysema and COPD, faster than anyone has seen before. 
