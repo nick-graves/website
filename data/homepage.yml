@@ -8,7 +8,7 @@ banner:
 
 items:
   - type: heading
-    heading: Welcome to Dakota Pulomanry's Interventional Pulmonology Program
+    heading: Welcome to Dakota Pulmonary's Interventional Pulmonology Program
     contents: Early Lung Cancer Detection and Treatment with Minimally Invasive Robotic-Assisted Procedures
 
   - type: highlights
@@ -29,7 +29,10 @@ items:
 
   - type: heading
     heading: Why Choose Us?
-    contents: "Leaders in Interventional Pulmonology, offering advanced technology for superior lung care."
+    contents: >
+      "Leaders in Interventional Pulmonology, offering advanced technology for superior lung care."
+      
+
 
   - type: highlights
     items_per_row: 2

@@ -9,8 +9,8 @@ image_alt: "Hello!"
 ---
 Dakota Pulmonary, in collaboration with Avera St. Luke’s Hospital, is at the forefront of lung cancer care with our new robotic bronchoscopy program. This innovative program allows for minimally invasive, robotic-assisted procedures that significantly improve early detection and treatment of lung cancer.
 
-### Meet Our Leader (Need to change this header)
-Deptmer Ashley, MD, ______ our program. Trained at The University of Texas with experience at MD Anderson Cancer Center, Dr. Ashley brings his mastery in interventional pulmonology to Dakota Pulmonary. ___His work has already led to the early detection of stage one lung cancers, providing patients with a 90% five-year survivability rate___.
+### Our Background
+Deptmer Ashley, MD, founder of the program has trained at The University of Texas with experience at MD Anderson Cancer Center. Dr. Ashley brings his mastery in interventional pulmonology to Dakota Pulmonary where his work has already led to the early detection of stage one lung cancers, providing patients with a 90% five-year survivability rate. Dr. Ashley is also very capable of diagnosing and treating other major lung conditions such as emphysema and COPD, faster than anyone has seen before. 
 
 ### Our Technology
 Dakota Pulmonary is the absolute forefront of interventional pulmonology tech. We use the Ion system developed by Intuitive, pioneers in robotic-assisted surgery which allows us to access remote lung tissue that conventional bronchoscopy cannot reach, ensuring accurate and early diagnosis that we have never seen before. Much of the technology we use for COPD such as stents, valves, rigid tube procedures, debulking, and post electric field tech, is the standard, plus more. 
