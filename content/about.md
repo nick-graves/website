@@ -24,5 +24,5 @@ Lung care remains a significant public health concern, with a new diagnosis ever
 ### Our Impact
 With our program, patients experience a swift transition from detection to diagnosis to treatment, often within a week. This rapid turnaround time significantly impacts patient outcomes and peace of mind.
 
-### Join Us in the Fight Against Lung Cancer
-For more information on our lung cancer screenings and treatment options, visit [Avera.org](https://www.avera.org/). At Avera St. Luke’s, we are committed to providing the best care possible right here in our community.
+### Learn More About Lung Care
+For more information on our lung cancer screenings and treatment options, visit [Avera.org](https://www.avera.org/). At Dakota Pulmonary, we are committed to providing the best care possible right here in our community.

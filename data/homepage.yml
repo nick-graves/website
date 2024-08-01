@@ -1,7 +1,7 @@
 banner:
   enable: true
-  image: "images/background4.jpg"
-  contents: "**Avera St. Luke’s Hospital:** _Interventional Pulmonology Program for Early Lung Cancer Detection and Treatment_"
+  image: "images/background4.jpg =500x500"
+  contents: "**Dakota Pulmonary:** _Interventional Pulmonology Program for Early Lung Condition Detection and Treatment_"
   button:
     contents: "Learn More"
     url: "about"
