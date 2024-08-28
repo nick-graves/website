@@ -3,7 +3,6 @@ title: "About Us"
 description: "A New Era in Lung Treatment"
 menu: main
 weight: 20
-image: images/about.jpg
 image_alt: "Hello!"
 
 ---
