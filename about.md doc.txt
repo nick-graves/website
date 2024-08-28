@@ -7,10 +7,10 @@ image: images/about.jpg
 image_alt: "Hello!"
 
 ---
-Dakota Pulmonary, in collaboration with Avera St. Luke’s Hospital, is at the forefront of lung care with our new robotic bronchoscopy program. This innovative program allows for minimally invasive, robotic-assisted procedures that significantly improves early detection and treatment of lung conditions.
+Dakota Pulmonary, in collaboration with Avera St. Luke’s Hospital, is at the forefront of lung care with our new robotic bronchoscopy program. This innovative program allows for minimally invasive, robotic-assisted procedures that significantly improve early detection and treatment of lung conditions.
 
 ### Our Background
-Deptmer Ashley, MD, is the founder of Dakota Pulmonary and a highly skilled interventional pulmonologist. He trained at The University of Texas and honed his expertise at MD Anderson Cancer Center. Since establishing Dakota Pulmonary, Dr. Ashley has excelled in the early detection and staging of lung cancers, achieving a diagnostic yield exceeding 90%, and significantly improving patients' chances of successful treatment. Beyond cancer care, he is also known for his rapid and effective diagnosis and treatment of major lung conditions such as emphysema and COPD, setting new standards in patient care.
+Dr. Deptmer Ashley, MD, is the founder of Dakota Pulmonary and a highly skilled interventional pulmonologist. He trained at The University of Texas and honed his expertise at MD Anderson Cancer Center. Since establishing Dakota Pulmonary, Dr. Ashley has excelled in the early detection and staging of lung cancers, achieving a diagnostic yield exceeding 90%, and significantly improving patients' chances of successful treatment. Beyond cancer care, he is also known for his rapid and effective diagnosis and treatment of major lung conditions such as emphysema and COPD, setting new standards in patient care.
 
 ### Our Technology
 Dakota Pulmonary is the absolute forefront of interventional pulmonology tech. We use the Ion system developed by Intuitive, pioneers in robotic-assisted surgery which allows us to access remote lung tissue that conventional bronchoscopy cannot reach, ensuring accurate and early diagnosis that was not previously possible. Many of the technologies we use, including stents, valves, rigid bronchoscopy, debulking procedures, and pulsed electric field therapy, were formerly available only in major medical centers. By incorporating these advanced tools, we bring cutting-edge treatment options directly to our patients.
@@ -22,7 +22,7 @@ Lung care remains a significant public health concern, with a new diagnosis ever
 - **Prompt Treatment:** Reducing the average detection-to-treatment timeframe from seven months to seven days, and in some cases, as little as 18 hours. 
 
 ### Our Impact
-With our program, patients experience a swift transition from detection to diagnosis to treatment, often within a week. These rapid turnaround times significantly impact patient outcomes and peace of mind.
+With our program, patients experience a swift transition from detection to diagnosis to treatment, often within a week. This rapid turnaround time significantly impacts patient outcomes and peace of mind.
 
 ### Learn More About Lung Care
 For more information on our lung cancer screenings and treatment options, visit [Avera.org](https://www.avera.org/). At Dakota Pulmonary, we are committed to providing the best care possible right here in our community.
