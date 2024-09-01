@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Dakota Pulmonary</title>
-    <link>http://localhost:1313/website/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Home on Dakota Pulmonary</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>© Untitled. All rights reserved</copyright>
-    <atom:link href="http://localhost:1313/website/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Us</title>
-      <link>http://localhost:1313/website/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/website/about/</guid>
-      <description>Dakota Pulmonary, in collaboration with Avera St. Luke’s Hospital, is at the forefront of lung care with our new robotic bronchoscopy program. This innovative program allows for minimally invasive, robotic-assisted procedures that significantly improve early detection and treatment of lung conditions.&#xA;Our Background Deptmer Ashley, MD, founder of the program has trained at The University of Texas with experience at MD Anderson Cancer Center. Dr. Ashley brings his mastery in interventional pulmonology to Dakota Pulmonary where his work has already led to the early detection of stage one lung cancers, providing patients with a 90% five-year survivability rate.</description>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Dakota Pulmonary, in collaboration with Avera St. Luke’s Hospital, is at the forefront of lung care with our new robotic bronchoscopy program. This innovative program allows for minimally invasive, robotic-assisted procedures that significantly improves early detection and treatment of lung conditions.&#xA;Our Background Deptmer Ashley, MD, is the founder of Dakota Pulmonary and a highly skilled interventional pulmonologist. He trained at The University of Texas and honed his expertise at MD Anderson Cancer Center.</description>
     </item>
     <item>
       <title>Procedures</title>
-      <link>http://localhost:1313/website/procedures/</link>
+      <link>http://localhost:1313/procedures/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/website/procedures/</guid>
+      <guid>http://localhost:1313/procedures/</guid>
       <description>Diagnostic Procedures &amp;#9654; Flexible Bronchoscopy&#xD;Flexible bronchoscopy is a diagnostic and therapeutic procedure that involves the use of a flexible bronchoscope to examine the airways, including the trachea, bronchi, and lungs. It is performed to diagnose conditions such as infections, tumors, inflammation, and bleeding, as well as to collect tissue samples or remove foreign objects. &amp;#9654; Endobronchial Ultrasound (EBUS)&#xD;Endobronchial Ultrasound (EBUS) is a minimally invasive procedure that combines bronchoscopy with ultrasound to visualize and sample structures within and around the airways.</description>
     </item>
   </channel>

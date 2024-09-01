@@ -4,8 +4,8 @@ description: "A New Era in Lung Treatment"
 menu: main
 weight: 20
 image_alt: "Hello!"
-
 ---
+
 Dakota Pulmonary, in collaboration with Avera St. Luke’s Hospital, is at the forefront of lung care with our new robotic bronchoscopy program. This innovative program allows for minimally invasive, robotic-assisted procedures that significantly improves early detection and treatment of lung conditions.
 
 ### Our Background
@@ -24,7 +24,11 @@ Lung cancer remains a significant public health concern, with a new diagnosis ev
 With our program, patients experience a swift transition from detection to diagnosis to treatment, often within a week. These rapid turnaround times significantly impact patient outcomes and peace of mind.
 
 ### Contact Us
-Semper fi. 
+**Phone:** 605-622-2570 \
+**Address:** 310 S Penn Street, Suite 203, Aberdeen, SD 57401 \
+Located on the second floor of Avera St. Luke's in suite 203.
+
+
 
 ### Learn More About Lung Care
 For more information on our lung cancer screenings and treatment options, visit [Avera.org](https://www.avera.org/). At Dakota Pulmonary, we are committed to providing the best care possible right here in our community.
