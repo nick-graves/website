@@ -23,5 +23,8 @@ Lung cancer remains a significant public health concern, with a new diagnosis ev
 ### Our Impact
 With our program, patients experience a swift transition from detection to diagnosis to treatment, often within a week. These rapid turnaround times significantly impact patient outcomes and peace of mind.
 
+### Contact Us
+Semper fi. 
+
 ### Learn More About Lung Care
 For more information on our lung cancer screenings and treatment options, visit [Avera.org](https://www.avera.org/). At Dakota Pulmonary, we are committed to providing the best care possible right here in our community.
