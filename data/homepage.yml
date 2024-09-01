@@ -1,3 +1,12 @@
+banner:
+  enable: true
+  image: "images/background5.jpg"
+  contents: "**Dakota Pulmonary:** _Interventional Pulmonology Program for Early Lung Condition Detection and Treatment_"
+  button:
+    contents: "Learn More"
+    url: "about"
+
+
 items:
   - type: heading
     heading: Welcome to The Dakota's only Interventional Pulmonology Program
