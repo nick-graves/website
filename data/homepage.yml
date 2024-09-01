@@ -1,6 +1,6 @@
 banner:
   enable: true
-  image: "images/background5.jpg"
+  image: "images/background5.png"
   contents: "**Dakota Pulmonary:** _Interventional Pulmonology Program for Early Lung Condition Detection and Treatment_"
   button:
     contents: "Learn More"
